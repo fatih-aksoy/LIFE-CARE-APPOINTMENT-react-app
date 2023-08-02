@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LIFE-CARE-APPOINTMENT-react-app/static/css/main.241d17db.css",
+    "main.js": "/LIFE-CARE-APPOINTMENT-react-app/static/js/main.062644a1.js",
+    "index.html": "/LIFE-CARE-APPOINTMENT-react-app/index.html",
+    "main.241d17db.css.map": "/LIFE-CARE-APPOINTMENT-react-app/static/css/main.241d17db.css.map",
+    "main.062644a1.js.map": "/LIFE-CARE-APPOINTMENT-react-app/static/js/main.062644a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.241d17db.css",
+    "static/js/main.062644a1.js"
+  ]
+}
