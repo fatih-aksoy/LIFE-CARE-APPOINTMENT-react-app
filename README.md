@@ -6,4 +6,6 @@
 
 ### HTML, CSS, JS, REACTJS
 
-![alt text] (life-care-appoinment-app.gif)
+![alt text] (life-care-appointment-app.gif)
+
+
